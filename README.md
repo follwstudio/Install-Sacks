@@ -7,10 +7,10 @@
 ### Install script    
 To install or update Socks,you can use the install script using cURL:   
 
-    curl -o- https://raw.githubusercontent.com/follwstudio/Install-Sacks/master/InstallSocks.sh  | bash     
+    curl -o- https://raw.githubusercontent.com/follwstudio/Install-Sacks/master/Install.sh  | bash     
 or Wget: 
        
-    wget -qO- https://raw.githubusercontent.com/follwstudio/Install-Sacks/master/InstallSocks.sh  | bash        
+    wget -qO- https://raw.githubusercontent.com/follwstudio/Install-Sacks/master/Install.sh  | bash        
 
 
 **Copyright (C) 2014-2017 Follw.me / Folme.Online**
